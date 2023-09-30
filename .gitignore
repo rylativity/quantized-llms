@@ -3,3 +3,7 @@ venv/
 .ipynb_checkpoints/
 
 *.gguf
+nc_workspace/
+static_quantization/
+dynamic_quantization/
+gptq_quantized_model/
